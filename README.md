@@ -1,0 +1,1 @@
+Recipe project from the Odin Project's foundations course.
