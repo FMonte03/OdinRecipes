@@ -1,0 +1,45 @@
+
+
+body{background-image: linear-gradient(to bottom right, lightblue,white); }
+
+
+.title{
+    text-align: center;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.menu{
+    background-color: black;
+}
+.gold{
+    color: gold;
+    
+    padding-left: 20px;
+    padding-top: 20px;
+    pa
+}
+
+li {
+    float: left ;
+  }
+  
+
+
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li:hover{
+    background-color: gray;
+}
+
